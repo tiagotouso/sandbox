@@ -1,4 +1,4 @@
-\# 🧪 Sandbox Lab
+# 🧪 Sandbox Lab
 
 
 
@@ -6,11 +6,11 @@
 
 
 
-\---
+---
 
 
 
-\## 👨‍💻 O que é isso?
+## 👨‍💻 O que é isso?
 
 
 
@@ -20,21 +20,21 @@ Aqui vivem:
 
 
 
-\* 🤖 Experimentos com IA
+* 🤖 Experimentos com IA
 
-\* 🔌 Integrações com APIs
+* 🔌 Integrações com APIs
 
-\* ⚡ Automações
+* ⚡ Automações
 
-\* 🧠 Provas de conceito (PoC)
+* 🧠 Provas de conceito (PoC)
 
-\* 🛠️ Protótipos rápidos
+* 🛠️ Protótipos rápidos
 
-\* 🐍 Scripts aleatórios
+* 🐍 Scripts aleatórios
 
-\* ☁️ Testes de infraestrutura
+* ☁️ Testes de infraestrutura
 
-\* 🔥 Ideias que talvez virem projetos reais
+* 🔥 Ideias que talvez virem projetos reais
 
 
 
@@ -44,11 +44,11 @@ se deu vontade de testar... provavelmente veio parar aqui 😅
 
 
 
-\---
+---
 
 
 
-\## ⚠️ Aviso importante
+## ⚠️ Aviso importante
 
 
 
@@ -56,15 +56,15 @@ Este projeto pode conter:
 
 
 
-\* código experimental ☢️
+* código experimental ☢️
 
-\* gambiarra premium 🩹
+* gambiarra premium 🩹
 
-\* commits duvidosos 🫠
+* commits duvidosos 🫠
 
-\* testes quebrados 💥
+* testes quebrados 💥
 
-\* ideias sem documentação 🤡
+* ideias sem documentação 🤡
 
 
 
@@ -72,19 +72,19 @@ Não espere:
 
 
 
-\* estabilidade
+* estabilidade
 
-\* arquitetura perfeita
+* arquitetura perfeita
 
-\* boas decisões às 3h da manhã
-
-
-
-\---
+* boas decisões às 3h da manhã
 
 
 
-\## 🧬 Filosofia do Sandbox
+---
+
+
+
+## 🧬 Filosofia do Sandbox
 
 
 
@@ -100,11 +100,11 @@ Talvez nunca."
 
 
 
-\---
+---
 
 
 
-\## 🚀 Como usar
+## 🚀 Como usar
 
 
 
@@ -126,45 +126,45 @@ Execute os testes, sobreviva aos bugs e divirta-se 😎
 
 
 
-\---
+---
 
 
 
-\## 🛠️ Tecnologias que podem aparecer por aqui
+## 🛠️ Tecnologias que podem aparecer por aqui
 
 
 
-\* Python 🐍
+* Python 🐍
 
-\* Docker 🐳
+* Docker 🐳
 
-\* APIs REST 🔗
+* APIs REST 🔗
 
-\* IA / LLMs 🤖
+* IA / LLMs 🤖
 
-\* Automação ⚙️
+* Automação ⚙️
 
-\* Streamlit 🎈
+* Streamlit 🎈
 
-\* Node.js 🟩
+* Node.js 🟩
 
-\* Linux 🐧
+* Linux 🐧
 
-\* Qualquer coisa que funcione na força do ódio 💀
-
-
-
-\---
+* Qualquer coisa que funcione na força do ódio 💀
 
 
 
-\## 📌 Status do projeto
+---
+
+
+
+## 📌 Status do projeto
 
 
 
 ```txt
 
-\[██████████░░░░░░░░] 50%
+[██████████░░░░░░░░] 50%
 
 ```
 
@@ -178,11 +178,11 @@ Status real:
 
 
 
-\---
+---
 
 
 
-\## ☕ Observação final
+## ☕ Observação final
 
 
 

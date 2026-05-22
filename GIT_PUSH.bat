@@ -1,5 +1,5 @@
 @echo off
-title 🚀 Auto Git Push Insano
+title Auto Git Push Insano
 
 cd /d "%~dp0"
 
@@ -33,7 +33,7 @@ set /a rand=%random% %% 15
 
 echo.
 echo =====================================
-echo 🚀 Enviando codigo para o universo...
+echo Enviando codigo para o universo...
 echo =====================================
 echo.
 
@@ -46,12 +46,12 @@ git push
 IF %ERRORLEVEL% EQU 0 (
     echo.
     echo =====================================
-    echo ✅ Codigo enviado com sucesso
+    echo Codigo enviado com sucesso
     echo =====================================
 ) ELSE (
     echo.
     echo =====================================
-    echo ❌ Deu ruim no push
+    echo Deu ruim no push
     echo =====================================
 )
 
